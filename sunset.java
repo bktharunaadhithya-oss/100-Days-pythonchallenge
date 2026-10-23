@@ -1,4 +1,4 @@
-
+// java file
 import java.util.Scanner;
 
 public class Main {
